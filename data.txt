@@ -1,0 +1,101 @@
+[  
+   {  
+      "sku":"G5FFNNK98ETA2UBE",
+      "instanceType":"c4.4xlarge",
+      "location":"Asia Pacific (Tokyo)",
+      "instanceFamily":"Compute optimized",
+      "vcpu":"16",
+      "memory":"30 GiB",
+      "storage":"EBS only",
+      "physicalProcessor":"Intel Xeon E5-2666 v3 (Haswell)",
+      "networkPerformance":"High"
+   },
+   {  
+      "sku":"6RCJMXD8XSQUJE8Q",
+      "instanceType":"r3.xlarge",
+      "location":"Asia Pacific (Sydney)",
+      "instanceFamily":"Memory optimized",
+      "vcpu":"4",
+      "memory":"30.5 GiB",
+      "storage":"1 x 80 SSD",
+      "physicalProcessor":"Intel Xeon E5-2670 v2 (Ivy Bridge)",
+      "networkPerformance":"Moderate"
+   },
+   {  
+      "sku":"QUMEF4UK3NPT4MN3",
+      "instanceType":"c3.xlarge",
+      "location":"US East (N. Virginia)",
+      "instanceFamily":"Compute optimized",
+      "vcpu":"4",
+      "memory":"7.5 GiB",
+      "storage":"2 x 40 SSD",
+      "physicalProcessor":"Intel Xeon E5-2680 v2 (Ivy Bridge)",
+      "networkPerformance":"Moderate"
+   },
+   {  
+      "sku":"DBCQPZ6Z853WRE98",
+      "instanceType":"r5d.12xlarge",
+      "location":"US East (N. Virginia)",
+      "instanceFamily":"Memory optimized",
+      "vcpu":"48",
+      "memory":"384 GiB",
+      "storage":"2 x 900 NVMe SSD",
+      "physicalProcessor":"Intel Xeon Platinum 8175",
+      "networkPerformance":"10 Gigabit"
+   },
+   {  
+      "sku":"358T9BNCKNDCWTCV",
+      "instanceType":"c5d.large",
+      "location":"Middle East (Bahrain)",
+      "instanceFamily":"Compute optimized",
+      "vcpu":"2",
+      "memory":"4 GiB",
+      "storage":"1 x 50 NVMe SSD",
+      "physicalProcessor":"Intel Xeon Platinum 8124M",
+      "networkPerformance":"Up to 10 Gigabit"
+   },
+   {  
+      "sku":"JF25X344J7WKTCG7",
+      "instanceType":"m4.large",
+      "location":"EU (London)",
+      "instanceFamily":"General purpose",
+      "vcpu":"2",
+      "memory":"8 GiB",
+      "storage":"EBS only",
+      "physicalProcessor":"Intel Xeon E5-2676 v3 (Haswell)",
+      "networkPerformance":"Moderate"
+   },
+   {  
+      "sku":"PSKQUF3DN4PQUY5X",
+      "instanceType":"c5d.18xlarge",
+      "location":"US East (N. Virginia)",
+      "instanceFamily":"Compute optimized",
+      "vcpu":"72",
+      "memory":"144 GiB",
+      "storage":"2 x 900 NVMe SSD",
+      "physicalProcessor":"Intel Xeon Platinum 8124M",
+      "networkPerformance":"25 Gigabit"
+   },
+   {  
+      "sku":"AFVCMTRYHYW76722",
+      "instanceType":"i3.8xlarge",
+      "location":"Middle East (Bahrain)",
+      "instanceFamily":"Storage optimized",
+      "vcpu":"32",
+      "memory":"244 GiB",
+      "storage":"4 x 1900 NVMe SSD",
+      "physicalProcessor":"Intel Xeon E5-2686 v4 (Broadwell)",
+      "networkPerformance":"10 Gigabit"
+   },
+   {  
+      "sku":"YRJHRFVPZGFVAJQR",
+      "instanceType":"m5d.12xlarge",
+      "location":"AWS GovCloud (US)",
+      "instanceFamily":"General purpose",
+      "vcpu":"48",
+      "memory":"192 GiB",
+      "storage":"2 x 900 NVMe SSD",
+      "physicalProcessor":"Intel Xeon Platinum 8175",
+      "networkPerformance":"10 Gigabit"
+   }
+]
